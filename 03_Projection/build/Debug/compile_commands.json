@@ -1,0 +1,17 @@
+[
+{
+  "directory": "C:/code/_C_/Computer_Graphic/03_Projection/build/Debug",
+  "command": "C:\\PROGRA~2\\MICROS~2\\2019\\COMMUN~1\\VC\\Tools\\MSVC\\1429~1.301\\bin\\Hostx64\\x64\\cl.exe  /nologo -external:IC:\\dev\\vcpkg\\installed\\x64-windows\\include -external:W0 /DWIN32 /D_WINDOWS /W3 /MDd /Zi /Ob0 /Od /RTC1 /FoCMakeFiles\\WindMillExe.dir\\wind_mill.c.obj /FdTARGET_COMPILE_PDB /FS -c C:\\code\\_C_\\Computer_Graphic\\03_Projection\\wind_mill.c",
+  "file": "C:\\code\\_C_\\Computer_Graphic\\03_Projection\\wind_mill.c"
+},
+{
+  "directory": "C:/code/_C_/Computer_Graphic/03_Projection/build/Debug",
+  "command": "C:\\PROGRA~2\\MICROS~2\\2019\\COMMUN~1\\VC\\Tools\\MSVC\\1429~1.301\\bin\\Hostx64\\x64\\cl.exe  /nologo -external:IC:\\dev\\vcpkg\\installed\\x64-windows\\include -external:W0 /DWIN32 /D_WINDOWS /W3 /MDd /Zi /Ob0 /Od /RTC1 /FoCMakeFiles\\ProjectExe.dir\\project.c.obj /FdTARGET_COMPILE_PDB /FS -c C:\\code\\_C_\\Computer_Graphic\\03_Projection\\project.c",
+  "file": "C:\\code\\_C_\\Computer_Graphic\\03_Projection\\project.c"
+},
+{
+  "directory": "C:/code/_C_/Computer_Graphic/03_Projection/build/Debug",
+  "command": "C:\\PROGRA~2\\MICROS~2\\2019\\COMMUN~1\\VC\\Tools\\MSVC\\1429~1.301\\bin\\Hostx64\\x64\\cl.exe  /nologo -external:IC:\\dev\\vcpkg\\installed\\x64-windows\\include -external:W0 /DWIN32 /D_WINDOWS /W3 /MDd /Zi /Ob0 /Od /RTC1 /FoCMakeFiles\\View1Exe.dir\\view1.c.obj /FdTARGET_COMPILE_PDB /FS -c C:\\code\\_C_\\Computer_Graphic\\03_Projection\\view1.c",
+  "file": "C:\\code\\_C_\\Computer_Graphic\\03_Projection\\view1.c"
+}
+]

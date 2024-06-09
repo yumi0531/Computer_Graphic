@@ -1,0 +1,5 @@
+C:/code/_C_/Computer_Graphic/03_Projection/build/Debug/CMakeFiles/WindMillExe.dir
+C:/code/_C_/Computer_Graphic/03_Projection/build/Debug/CMakeFiles/ProjectExe.dir
+C:/code/_C_/Computer_Graphic/03_Projection/build/Debug/CMakeFiles/View1Exe.dir
+C:/code/_C_/Computer_Graphic/03_Projection/build/Debug/CMakeFiles/edit_cache.dir
+C:/code/_C_/Computer_Graphic/03_Projection/build/Debug/CMakeFiles/rebuild_cache.dir
