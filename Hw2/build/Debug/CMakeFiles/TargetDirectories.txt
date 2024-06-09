@@ -1,0 +1,8 @@
+C:/code/_C_/Computer_Graphic/Hw2/build/Debug/CMakeFiles/CarExe.dir
+C:/code/_C_/Computer_Graphic/Hw2/build/Debug/CMakeFiles/CubesExe.dir
+C:/code/_C_/Computer_Graphic/Hw2/build/Debug/CMakeFiles/TemplateExe.dir
+C:/code/_C_/Computer_Graphic/Hw2/build/Debug/CMakeFiles/WindMillExe.dir
+C:/code/_C_/Computer_Graphic/Hw2/build/Debug/CMakeFiles/WindMillSampleExe.dir
+C:/code/_C_/Computer_Graphic/Hw2/build/Debug/CMakeFiles/SampleExe.dir
+C:/code/_C_/Computer_Graphic/Hw2/build/Debug/CMakeFiles/edit_cache.dir
+C:/code/_C_/Computer_Graphic/Hw2/build/Debug/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,32 @@
+[
+{
+  "directory": "C:/code/_C_/Computer_Graphic/Hw2/build/Debug",
+  "command": "C:\\PROGRA~2\\MICROS~2\\2019\\COMMUN~1\\VC\\Tools\\MSVC\\1429~1.301\\bin\\Hostx64\\x64\\cl.exe  /nologo -external:IC:\\dev\\vcpkg\\installed\\x64-windows\\include -external:W0 /DWIN32 /D_WINDOWS /W3 /MDd /Zi /Ob0 /Od /RTC1 /FoCMakeFiles\\CarExe.dir\\car.c.obj /FdTARGET_COMPILE_PDB /FS -c C:\\code\\_C_\\Computer_Graphic\\Hw2\\car.c",
+  "file": "C:\\code\\_C_\\Computer_Graphic\\Hw2\\car.c"
+},
+{
+  "directory": "C:/code/_C_/Computer_Graphic/Hw2/build/Debug",
+  "command": "C:\\PROGRA~2\\MICROS~2\\2019\\COMMUN~1\\VC\\Tools\\MSVC\\1429~1.301\\bin\\Hostx64\\x64\\cl.exe  /nologo -external:IC:\\dev\\vcpkg\\installed\\x64-windows\\include -external:W0 /DWIN32 /D_WINDOWS /W3 /MDd /Zi /Ob0 /Od /RTC1 /FoCMakeFiles\\CubesExe.dir\\cubes.c.obj /FdTARGET_COMPILE_PDB /FS -c C:\\code\\_C_\\Computer_Graphic\\Hw2\\cubes.c",
+  "file": "C:\\code\\_C_\\Computer_Graphic\\Hw2\\cubes.c"
+},
+{
+  "directory": "C:/code/_C_/Computer_Graphic/Hw2/build/Debug",
+  "command": "C:\\PROGRA~2\\MICROS~2\\2019\\COMMUN~1\\VC\\Tools\\MSVC\\1429~1.301\\bin\\Hostx64\\x64\\cl.exe  /nologo -external:IC:\\dev\\vcpkg\\installed\\x64-windows\\include -external:W0 /DWIN32 /D_WINDOWS /W3 /MDd /Zi /Ob0 /Od /RTC1 /FoCMakeFiles\\TemplateExe.dir\\template.c.obj /FdTARGET_COMPILE_PDB /FS -c C:\\code\\_C_\\Computer_Graphic\\Hw2\\template.c",
+  "file": "C:\\code\\_C_\\Computer_Graphic\\Hw2\\template.c"
+},
+{
+  "directory": "C:/code/_C_/Computer_Graphic/Hw2/build/Debug",
+  "command": "C:\\PROGRA~2\\MICROS~2\\2019\\COMMUN~1\\VC\\Tools\\MSVC\\1429~1.301\\bin\\Hostx64\\x64\\cl.exe  /nologo -external:IC:\\dev\\vcpkg\\installed\\x64-windows\\include -external:W0 /DWIN32 /D_WINDOWS /W3 /MDd /Zi /Ob0 /Od /RTC1 /FoCMakeFiles\\WindMillExe.dir\\wind_mill.c.obj /FdTARGET_COMPILE_PDB /FS -c C:\\code\\_C_\\Computer_Graphic\\Hw2\\wind_mill.c",
+  "file": "C:\\code\\_C_\\Computer_Graphic\\Hw2\\wind_mill.c"
+},
+{
+  "directory": "C:/code/_C_/Computer_Graphic/Hw2/build/Debug",
+  "command": "C:\\PROGRA~2\\MICROS~2\\2019\\COMMUN~1\\VC\\Tools\\MSVC\\1429~1.301\\bin\\Hostx64\\x64\\cl.exe  /nologo -external:IC:\\dev\\vcpkg\\installed\\x64-windows\\include -external:W0 /DWIN32 /D_WINDOWS /W3 /MDd /Zi /Ob0 /Od /RTC1 /FoCMakeFiles\\WindMillSampleExe.dir\\wind_mill_sample.c.obj /FdTARGET_COMPILE_PDB /FS -c C:\\code\\_C_\\Computer_Graphic\\Hw2\\wind_mill_sample.c",
+  "file": "C:\\code\\_C_\\Computer_Graphic\\Hw2\\wind_mill_sample.c"
+},
+{
+  "directory": "C:/code/_C_/Computer_Graphic/Hw2/build/Debug",
+  "command": "C:\\PROGRA~2\\MICROS~2\\2019\\COMMUN~1\\VC\\Tools\\MSVC\\1429~1.301\\bin\\Hostx64\\x64\\cl.exe  /nologo -external:IC:\\dev\\vcpkg\\installed\\x64-windows\\include -external:W0 /DWIN32 /D_WINDOWS /W3 /MDd /Zi /Ob0 /Od /RTC1 /FoCMakeFiles\\SampleExe.dir\\sample.c.obj /FdTARGET_COMPILE_PDB /FS -c C:\\code\\_C_\\Computer_Graphic\\Hw2\\sample.c",
+  "file": "C:\\code\\_C_\\Computer_Graphic\\Hw2\\sample.c"
+}
+]
