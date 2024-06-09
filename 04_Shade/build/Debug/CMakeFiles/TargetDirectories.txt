@@ -1,0 +1,5 @@
+C:/code/_C_/Computer_Graphic/04_Shade/build/Debug/CMakeFiles/lightExe.dir
+C:/code/_C_/Computer_Graphic/04_Shade/build/Debug/CMakeFiles/shadeExe.dir
+C:/code/_C_/Computer_Graphic/04_Shade/build/Debug/CMakeFiles/windmillExe.dir
+C:/code/_C_/Computer_Graphic/04_Shade/build/Debug/CMakeFiles/edit_cache.dir
+C:/code/_C_/Computer_Graphic/04_Shade/build/Debug/CMakeFiles/rebuild_cache.dir
